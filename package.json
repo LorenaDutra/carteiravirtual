@@ -11,7 +11,7 @@
     "@fortawesome/react-fontawesome": "^0.0.20",
     "apollo-boost": "^0.1.7",
     "apollo-server-hapi": "^1.3.6",
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "babel-plugin-emotion": "^9.1.2",
     "babel-polyfill": "^6.26.0",
     "bech32": "^1.1.3",
